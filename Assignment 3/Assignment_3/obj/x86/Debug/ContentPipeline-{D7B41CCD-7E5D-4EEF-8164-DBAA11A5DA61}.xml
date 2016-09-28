@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>start.jpg</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2015-09-24T21:49:35.5825905-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-09-24T21:55:24.861476-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOver.png</Source>
+      <Name>gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\gameOver.xnb</Output>
+      <Time>2015-09-24T22:04:21.1778834-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy sheet1.png</Source>
+      <Name>enemy sheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\enemy sheet1.xnb</Output>
+      <Time>2015-09-25T02:22:23.1816607-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bomb.png</Source>
+      <Name>Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\Bomb.xnb</Output>
+      <Time>2015-09-28T02:18:05.3367365-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2015-09-28T02:18:07.8277129-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Gift.png</Source>
+      <Name>Gift</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\Gift.xnb</Output>
+      <Time>2015-09-29T19:40:50.2995384-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2015-09-28T02:18:07.8617395-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship.png</Source>
+      <Name>Spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\Spaceship.xnb</Output>
+      <Time>2015-09-28T02:18:07.877746-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sheild.png</Source>
+      <Name>sheild</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\sheild.xnb</Output>
+      <Time>2015-09-29T19:44:31.3363745-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceinvaders1.mp3</Source>
+      <Name>spaceinvaders1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\spaceinvaders1.xnb</Output>
+      <Extra>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\spaceinvaders1.wma</Extra>
+      <Time>2015-09-25T01:40:49.2486753-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spritefont.spritefont</Source>
+      <Name>spritefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\spritefont.xnb</Output>
+      <Time>2015-09-25T04:50:32.8938807-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D7B41CCD-7E5D-4EEF-8164-DBAA11A5DA61}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\pavani\Desktop\nikky\Game Programming\Game Projects\Assignment 3\Assignment 3\Assignment_3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-30T21:10:12.8837674-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

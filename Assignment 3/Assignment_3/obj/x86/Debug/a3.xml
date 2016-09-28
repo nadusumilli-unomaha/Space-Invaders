@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 460950397;
+    Bank Last Revised High = 30473020;
+
+    Wave
+    {
+        Name = ufo_lowpitch;
+        File = ufo_lowpitch.wav;
+        Build Settings Last Modified Low = 202482878;
+        Build Settings Last Modified High = 30472030;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 25805;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3927400192;
+            Last Modified High = 29265148;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion;
+        File = explosion.wav;
+        Build Settings Last Modified Low = 202522974;
+        Build Settings Last Modified High = 30472030;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 8731;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3927400192;
+            Last Modified High = 29265148;
+        }
+    }
+
+    Wave
+    {
+        Name = invaderkilled;
+        File = invaderkilled.wav;
+        Build Settings Last Modified Low = 202552931;
+        Build Settings Last Modified High = 30472030;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 3377;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3927400192;
+            Last Modified High = 29265148;
+        }
+    }
+
+    Wave
+    {
+        Name = shoot;
+        File = shoot.wav;
+        Build Settings Last Modified Low = 202592957;
+        Build Settings Last Modified High = 30472030;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 4080;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3927400192;
+            Last Modified High = 29265148;
+        }
+    }
+
+    Wave
+    {
+        Name = kill;
+        File = ..\..\..\..\..\..\..\..\ray_gun-Mike_Koenig-1169060422.wav;
+        Build Settings Last Modified Low = 4137218043;
+        Build Settings Last Modified High = 30472042;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 95744;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1879458559;
+            Last Modified High = 30469399;
+        }
+    }
+
+    Wave
+    {
+        Name = Bomb;
+        File = Bomb-SoundBible.com-891110113.wav;
+        Build Settings Last Modified Low = 1581641498;
+        Build Settings Last Modified High = 30472049;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 291384;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2647237718;
+            Last Modified High = 30472045;
+        }
+    }
+
+    Wave
+    {
+        Name = electric;
+        File = ..\..\..\..\..\..\..\..\electric.wav;
+        Build Settings Last Modified Low = 403629124;
+        Build Settings Last Modified High = 30473020;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 970172;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2152258219;
+            Last Modified High = 30469390;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
